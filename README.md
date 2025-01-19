@@ -1,6 +1,7 @@
 
 
 # MyVCS: Sistema de Control de Versiones Personalizado
+![image](https://github.com/user-attachments/assets/651e50dd-cf04-4e17-b8d0-11c164d2a3c4)
 
 MyVCS es un sistema ligero de control de versiones para proyectos pequeños, implementado en shell script. Proporciona comandos básicos para `commit`, `branch`, `merge` y `revert`.
 
